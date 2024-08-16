@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Recep</h1>
 <h3 align="center">A developer from Turkey</h3>
 
-- 🌱 I’m currently learning **.Net Framwork,C#,Java**
+- 🌱 I’m currently learning **.Net Framework,C#,Java**
 
 - 📫 How to reach me **recepcoder@gmail.com**
 
